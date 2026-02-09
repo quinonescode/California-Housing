@@ -5,7 +5,7 @@
 This repository contains a comprehensive machine learning project focused on predicting median house values in California. The goal was to build a complete pipeline, moving from raw data processing to model evaluation.
 
 ## Project Motivation
-While my background is primarily in the R ecosystem for statistical analysis, I am currently expanding my technical repertoire into Python. This project serves as a practical application of machine learning fundamentals—specifically regression—using the Scikit-Learn framework.
+While my background is primarily in the R ecosystem for statistical analysis, I am currently expanding my technical repertoire into Python. This project serves as a practical application of machine learning fundamentals (specifically regression) using the Scikit-Learn framework.
 
 ## Methodology
 The project follows a structured data science workflow to ensure model reliability and reproducibility.
